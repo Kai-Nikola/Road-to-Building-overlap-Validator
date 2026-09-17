@@ -1,0 +1,17 @@
+[general]
+name=Building Road Overlap Validator
+qgisMinimumVersion=3.0
+description=Automated detection and correction of road-building polygon overlaps: trimming, shifting, and purging.
+about=Detects and resolves overlaps between building polygons and buffered road lines using targeted spatial algorithms. Supports optional AOI masking and auto-exports corrected layers, movement points, and trimmed segments.
+version=1.0.0
+author=Your Name or Organization
+email=your_email@example.com
+repository=https://github.com/yourusername/building-road-overlap-validator
+tracker=https://github.com/yourusername/building-road-overlap-validator/issues
+homepage=https://github.com/yourusername/building-road-overlap-validator
+category=Vector
+tags=building, road, overlap, validator, topology, polygon, buffer, correction
+icon=icon.png
+experimental=False
+deprecated=False
+changelog=1.0.0 - Initial public release.
